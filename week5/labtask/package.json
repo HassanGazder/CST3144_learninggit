@@ -1,0 +1,9 @@
+{
+  "Project name": "Practice with node js",
+  "author": "hassan",
+  "version": "0.1.0",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21"
+  }
+}
