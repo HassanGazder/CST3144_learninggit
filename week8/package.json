@@ -1,0 +1,11 @@
+{
+    "name": "static-file-fun",
+    "private": "true",
+    "scripts": {
+        "start": "node number.js"
+    },
+    "dependencies": {
+        "api-router": "^0.1.10",
+        "express": "^5.1.0"
+    }
+}
